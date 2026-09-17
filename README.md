@@ -86,6 +86,3 @@ This is currently a solo learning/portfolio project, but suggestions and feedbac
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 👤 Author
-
-**Pardeep** — Data Science enthusiast, building this as a hands-on NLP/resume-parsing portfolio project.
